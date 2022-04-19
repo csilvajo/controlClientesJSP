@@ -11,7 +11,7 @@ Persiste mediante JDBC, usa DAO para ejecutar las sentencias SQL
 Utiliza sevlet para controlar el flujo de peticiones
 
 # Vista
-Utiliza JSP con condigo HTML5, Bootstrap4, Iconos de Font Awesome
+Utiliza JSP con con código HTML5, Bootstrap4, Iconos de Font Awesome
   
 
   
